@@ -9,12 +9,35 @@
 
 .card-image img {
   width: 100%;
-  height: auto;
+  height: 100%;
   object-fit: cover;
 }
 
 .card-body {
   text-align: center;
+}
+
+.contact {
+  background-color: #9e9edb;
+}
+
+.form-group li i {
+  font-size: 16px;
+}
+
+.form-group li {
+  list-style: none;
+  font-size: 0;
+  letter-spacing: 1px;
+}
+
+.form-group ul {
+  margin: 0;
+  padding: 0;
+}
+
+.list-inline li {
+  word-spacing: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
